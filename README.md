@@ -43,15 +43,8 @@
 
 <p align="left">
   - Python<br>
-  - JavaScript<br>
-  - Go<br>
-  - Rust<br>
-  - HTML<br>
-  - CSS<br>
-  - Docker<br>
-  - Kubernetes<br>
-  - Firebase<br>
-  - Amazon Web Services (AWS)<br>
+  - Linux<br>
+
 </p>
 
 ###
