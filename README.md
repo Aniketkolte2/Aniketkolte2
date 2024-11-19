@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="www.linkedin.com/in/aniket-kolte-491972288&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-</div>
 
 ###
 
