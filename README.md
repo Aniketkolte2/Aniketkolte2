@@ -48,9 +48,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aniketkolte&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
 
 ###
 
@@ -58,10 +55,7 @@
 
 ###
 
-<p align="left">
-  - LinkedIn: www.linkedin.com/in/aniket-kolte-491972288<br>
-  - Email: kolteaniket26@gmail.com<br>
-</p>
+
 
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
