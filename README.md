@@ -13,7 +13,7 @@
 
 <p align="left">
   I'm Aniket Rajesh Kolte from Nashik, India.<br><br>
-  - 🎓 Currently pursuing a Bachelor of Engineering in Artificial Intelligence and Data Science at Pune Vidyarthi Griha's College of Engineering.<br>
+  - 🎓 Currently pursuing Engineering in Artificial Intelligence and Data Science at Pune Vidyarthi Griha's College of Engineering.<br>
   - 💻 Passionate about ethical hacking, penetration testing, and advanced cybersecurity techniques.<br>
   - 📚 Learning tools and concepts like penetration testing, network security, website pentesting, and Android pentesting.<br>
   - 🌱 Recently completed 'Ethical Hacking Masterclass' on Infosys Springboard.<br>
