@@ -51,14 +51,13 @@
 
 ###
 
-<h3 align="left">📫 Let's Connect</h3>
+
 
 ###
 
 
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -104,11 +103,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Aniketkolte2/Aniketkolte2/output/snake.svg" alt="Snake animation" />
 
 ###
 
-
+<h3 align="left">📫 Let's Connect</h3>
 
 ###
 
