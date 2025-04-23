@@ -3,7 +3,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aniketkolte2&color=blueviolet)
+
 
 ### 🧠 About Me
 I'm a passionate **B.E. student in Artificial Intelligence & Data Science** at **P.V.G.'s College of Engineering, Pune**. My core interest lies in **Software Testing**, where precision meets curiosity. I love breaking things — but for a good cause: to make them better!
