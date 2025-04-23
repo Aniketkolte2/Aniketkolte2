@@ -1,103 +1,65 @@
-###
+# Hey there, I'm Aniket Kolte!  👋  
+### 🚀 Aspiring Software Tester | 3rd Year B.E. Student | Bug Hunter in Training
 
+---
 
-###
+![Profile Views](https://komarev.com/ghpvc/?username=Aniketkolte2&color=blueviolet)
 
-<h1 align="center">Hey there 👋</h1>
+### 🧠 About Me
+I'm a passionate **B.E. student in Artificial Intelligence & Data Science** at **P.V.G.'s College of Engineering, Pune**. My core interest lies in **Software Testing**, where precision meets curiosity. I love breaking things — but for a good cause: to make them better!
 
-###
+I'm currently building my skills in:
+- Manual & Automation Testing
+- Selenium, JMeter, Postman
+- Bug Tracking & Reporting
+- API, UI, and Functional Testing
+- Test Plan, Test Case Writing, and Defect Lifecycle
 
-<h3 align="left">👨‍💻 About Me</h3>
+---
 
-###
+### 🔧 Tools & Technologies
 
-<p align="left">
-  I'm Aniket Rajesh Kolte from Nashik, India.<br><br>
-  - 🎓 Currently pursuing Engineering in Artificial Intelligence and Data Science at Pune Vidyarthi Griha's College of Engineering.<br>
-  - 💻 Passionate about ethical hacking, penetration testing, and advanced cybersecurity techniques.<br>
-  - 📚 Learning tools and concepts like penetration testing, network security, website pentesting, and Android pentesting.<br>
-  - 🌱 Recently completed 'Ethical Hacking Masterclass' on Infosys Springboard.<br>
-  - 🔭 I’m working on building projects related to ethical hacking and applying security concepts in real-world scenarios.<br>
-  - 🌐 Actively contributing to open-source projects to enhance cybersecurity awareness.<br>
-  - ⚡ In my free time, I explore the latest trends in AI and cybersecurity, game development, and gaming.
-</p>
+**Testing Tools:**  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![JMeter](https://img.shields.io/badge/-Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-###
+**Languages & Concepts:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<h3 align="left">🛠 Languages and Tools</h3>
+---
 
-###
+### 🧪 What I’m Currently Working On
+- Enhancing my test automation skills with real-world projects.
+- Practicing bug hunting and writing professional bug reports.
+- Publishing my **first research paper** on *"Impact of Human Error in Manual Software Testing"*.
+- Learning how to contribute to **open-source testing frameworks**.
 
-<p align="left">
-  - Python<br>
-  - Linux<br>
+---
 
-</p>
+### 🏆 Achievements
+- Completed **Ethical Hacking Masterclass** by Infosys Springboard.
+- Certified in **Beginner’s Guide to Ethical Hacking**.
+- Successfully performed web and API testing with real-time simulations.
 
-###
+---
 
-<h3 align="left">🚀 My Projects</h3>
+### 📈 GitHub Stats
 
-###
-- 🌍 **Port Scanner:** A Python tool to scan open ports and detect network vulnerabilities.<br>
-- 🛡 **Key Logger:** A Python-based tool designed for ethical purposes to track and analyze key inputs securely.<br>
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniketkolte2&show_icons=true&theme=radical)
 
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketkolte2&layout=compact&theme=radical)
 
-<br>
+---
 
-###
+### 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-kolte-491972288/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aniketkolte2)
 
-###
+---
 
-
-
-###
-
-
-
-
-
-###
-
-
-###
-
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
-
-###
-
-
-
-###
-
-<br clear="both">
-
-
-###
-
-
-
-###
-
-
-
-###
+**“Testing is not just a phase, it’s a mindset.”**  
+*Let’s ship better software, one bug at a time.*
