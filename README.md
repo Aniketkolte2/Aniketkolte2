@@ -40,8 +40,6 @@ I'm currently building my skills in:
 ---
 
 ### 🏆 Achievements
-- Completed **Ethical Hacking Masterclass** by Infosys Springboard.
-- Certified in **Beginner’s Guide to Ethical Hacking**.
 - Successfully performed web and API testing with real-time simulations.
 
 ---
