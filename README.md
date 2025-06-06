@@ -45,8 +45,6 @@ I'm currently building my skills in:
 
 ### 📈 GitHub Stats
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniketkolte2&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketkolte2&layout=compact&theme=radical)
 
 ---
