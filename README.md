@@ -33,7 +33,6 @@ I'm currently building my skills in:
 ### 🧪 What I’m Currently Working On
 - Enhancing my test automation skills with real-world projects.
 - Practicing bug hunting and writing professional bug reports.
-- Publishing my **first research paper** on *"Impact of Human Error in Manual Software Testing"*.
 - Learning how to contribute to **open-source testing frameworks**.
 
 ---
