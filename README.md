@@ -3,8 +3,6 @@
 
 ---
 
-
-
 ### 🧠 About Me
 I'm a passionate **B.E. student in Artificial Intelligence & Data Science** at **P.V.G.'s College of Engineering, Pune**. My core interest lies in **Software Testing**, where precision meets curiosity. I love breaking things — but for a good cause: to make them better!
 
@@ -19,14 +17,16 @@ I'm currently building my skills in:
 
 ### 🔧 Tools & Technologies
 
-**Testing Tools:**  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![JMeter](https://img.shields.io/badge/-Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)  
+**Testing Tools & Frameworks:**  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/-TestNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)
+![JMeter](https://img.shields.io/badge/-Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
 **Languages & Concepts:**  
- ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
