@@ -44,7 +44,8 @@ I'm currently building my skills in:
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketkolte2&layout=donut&theme=tokyonight&border_radius=20&title_color=00ffee&bg_color=0d1117&card_width=500)
+[![Aniket Kolte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketkolte2&layout=donut&theme=tokyonight&border_radius=20&title_color=00ffee&bg_color=0d1117&card_width=500)](https://github.com/Aniketkolte2)
+
 
 
 ---
