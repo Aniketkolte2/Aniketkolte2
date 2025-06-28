@@ -1,26 +1,26 @@
-# Hey there, I'm Aniket Kolte! 👋  
-### 💻 Java Backend Developer | Spring Boot Enthusiast | 3rd Year B.E. Student | Software Testing
+# Hey there, I'm Aniket Kolte  
+### Java Backend Developer | Spring Boot Enthusiast | 3rd Year B.E. Student | Software Testing
 
 ---
 
-### 🧠 About Me  
-I’m a dedicated **B.E. student in Artificial Intelligence & Data Science** at **P.V.G.'s College of Engineering, Pune**, with a strong passion for **Java backend development** using **Spring Boot**. I love building reliable, scalable APIs and backend services that solve real-world problems.
+### About Me  
+I’m a dedicated B.E. student in Artificial Intelligence & Data Science at P.V.G.'s College of Engineering, Pune, with a strong passion for Java backend development using Spring Boot. I enjoy building reliable, scalable APIs and backend services that solve real-world problems.
 
-While my primary focus is backend development, I also believe **great developers test what they build** — that’s why I’m confident in writing clean, tested, and production-ready code.
-
----
-
-### 💼 What I Do
-- 🛠️ **Build RESTful APIs** using Spring Boot & Java  
-- 🔐 **Implement authentication & role-based access** using Spring Security + JWT  
-- 🧪 **Write unit & integration tests** with JUnit and TestNG  
-- 🔄 **Use tools like Postman, JMeter, and Selenium** to automate and validate backend systems  
-- 🧰 Apply solid software practices: clean code, exception handling, and layered architecture  
-- 📊 Currently exploring microservices, databases, and DevOps tools
+While my primary focus is backend development, I also believe great developers test what they build — that’s why I’m confident in writing clean, tested, and production-ready code.
 
 ---
 
-### 🔧 Tools & Technologies
+### What I Do
+- Build RESTful APIs using Spring Boot & Java  
+- Implement authentication & role-based access using Spring Security + JWT  
+- Write unit & integration tests with JUnit and TestNG  
+- Use tools like Postman, JMeter, and Selenium to automate and validate backend systems  
+- Apply solid software practices: clean code, exception handling, and layered architecture  
+- Currently exploring microservices, databases, and DevOps tools
+
+---
+
+### Tools & Technologies
 
 **Backend & Development Stack:**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
@@ -33,7 +33,7 @@ While my primary focus is backend development, I also believe **great developers
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![TestNG](https://img.shields.io/badge/-TestNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)  
+![TestNG](https://img.shields.io/badge/-TestNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)
 
 **Other Tools & IDEs:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -42,7 +42,7 @@ While my primary focus is backend development, I also believe **great developers
 
 ---
 
-### 🚀 What I'm Currently Working On
+### What I'm Currently Working On
 - Full-stack Spring Boot projects with RESTful APIs and MySQL  
 - Authentication modules using Spring Security + JWT  
 - Integrating automation testing into backend pipelines  
@@ -51,26 +51,25 @@ While my primary focus is backend development, I also believe **great developers
 
 ---
 
-### 🏆 Highlights & Achievements
-- 👨‍💻 Built complete backend services using Java + Spring Boot with authentication and role-based access  
-- 🧪 Created custom test suites for APIs using Postman and JMeter  
-- 🧠 Developed and tested real-world use cases including login systems, bug-tracking logic, and more  
-- 💡 Always learning from bugs, GitHub repos, and open-source projects  
+### Highlights 
+- Built complete backend services using Java + Spring Boot with authentication and role-based access  
+- Developed and tested real-world use cases including login systems, bug-tracking logic, and more  
+- Continuously learning from bugs, GitHub repositories, and open-source projects  
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 [![Aniket Kolte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Aniketkolte2&hide=blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/Aniketkolte2)
 
 ---
 
-### 💬 Let's Connect!
-I’m open to tech collaborations, internship opportunities, and connecting with fellow devs who love Java, Spring, and testing as much as I do.
+### Let's Connect
+I’m open to tech collaborations, internship opportunities, and connecting with fellow developers who are passionate about Java, Spring, and quality software.
 
-📫 **Email**: aniketkolte2@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/aniketkolte2](https://linkedin.com/in/aniketkolte2)  
-💻 **GitHub**: [github.com/Aniketkolte2](https://github.com/Aniketkolte2)
+**Email**: aniketkolte2@gmail.com  
+**LinkedIn**: [linkedin.com/in/aniketkolte2](https://linkedin.com/in/aniketkolte2)  
+**GitHub**: [github.com/Aniketkolte2](https://github.com/Aniketkolte2)
 
 ---
 
