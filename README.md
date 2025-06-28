@@ -34,7 +34,6 @@ While my primary focus is backend development, I also believe **great developers
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 ![TestNG](https://img.shields.io/badge/-TestNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)  
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 **Other Tools & IDEs:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
