@@ -1,5 +1,5 @@
 # Hey there, I'm Aniket Kolte! 👋  
-### 💻 Java Backend Developer | Spring Boot Enthusiast | 3rd Year B.E. Student | Budding Engineer
+### 💻 Java Backend Developer | Spring Boot Enthusiast | 3rd Year B.E. Student | Software Testing
 
 ---
 
