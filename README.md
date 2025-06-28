@@ -1,44 +1,62 @@
-# Hey there, I'm Aniket Kolte!  👋  
-### 🚀 Aspiring Software Tester | 3rd Year B.E. Student | Bug Hunter in Training
+# Hey there, I'm Aniket Kolte! 👋  
+### 💻 Java Backend Developer | Spring Boot Enthusiast | 3rd Year B.E. Student | Budding Engineer
 
 ---
 
-### 🧠 About Me
-I'm a passionate **B.E. student in Artificial Intelligence & Data Science** at **P.V.G.'s College of Engineering, Pune**. My core interest lies in **Software Testing**, where precision meets curiosity. I love breaking things — but for a good cause: to make them better!
+### 🧠 About Me  
+I’m a dedicated **B.E. student in Artificial Intelligence & Data Science** at **P.V.G.'s College of Engineering, Pune**, with a strong passion for **Java backend development** using **Spring Boot**. I love building reliable, scalable APIs and backend services that solve real-world problems.
 
-I'm currently building my skills in:
-- Manual & Automation Testing
-- Selenium, JMeter, Postman
-- Bug Tracking & Reporting
-- API, UI, and Functional Testing
-- Test Plan, Test Case Writing, and Defect Lifecycle
+While my primary focus is backend development, I also believe **great developers test what they build** — that’s why I’m confident in writing clean, tested, and production-ready code.
+
+---
+
+### 💼 What I Do
+- 🛠️ **Build RESTful APIs** using Spring Boot & Java  
+- 🔐 **Implement authentication & role-based access** using Spring Security + JWT  
+- 🧪 **Write unit & integration tests** with JUnit and TestNG  
+- 🔄 **Use tools like Postman, JMeter, and Selenium** to automate and validate backend systems  
+- 🧰 Apply solid software practices: clean code, exception handling, and layered architecture  
+- 📊 Currently exploring microservices, databases, and DevOps tools
 
 ---
 
 ### 🔧 Tools & Technologies
 
-**Testing Tools & Frameworks:**  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/-TestNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)
-![JMeter](https://img.shields.io/badge/-Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+**Backend & Development Stack:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-**Languages & Concepts:**  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Testing & Automation Tools:**  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![TestNG](https://img.shields.io/badge/-TestNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)  
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+**Other Tools & IDEs:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-### 🧪 What I’m Currently Working On
-- Enhancing my test automation skills with real-world projects.
-- Practicing bug hunting and writing professional bug reports.
-- Learning how to contribute to **open-source testing frameworks**.
+### 🚀 What I'm Currently Working On
+- Full-stack Spring Boot projects with RESTful APIs and MySQL  
+- Authentication modules using Spring Security + JWT  
+- Integrating automation testing into backend pipelines  
+- Writing clean backend logic, exception handling, and validations  
+- Learning deployment basics: Docker, CI/CD, and testing in cloud environments
 
 ---
 
-### 🏆 Achievements
-- Successfully performed web and API testing with real-time simulations.
+### 🏆 Highlights & Achievements
+- 👨‍💻 Built complete backend services using Java + Spring Boot with authentication and role-based access  
+- 🧪 Created custom test suites for APIs using Postman and JMeter  
+- 🧠 Developed and tested real-world use cases including login systems, bug-tracking logic, and more  
+- 💡 Always learning from bugs, GitHub repos, and open-source projects  
 
 ---
 
@@ -46,18 +64,14 @@ I'm currently building my skills in:
 
 [![Aniket Kolte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Aniketkolte2&hide=blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/Aniketkolte2)
 
+---
 
+### 💬 Let's Connect!
+I’m open to tech collaborations, internship opportunities, and connecting with fellow devs who love Java, Spring, and testing as much as I do.
 
-
+📫 **Email**: aniketkolte2@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/aniketkolte2](https://linkedin.com/in/aniketkolte2)  
+💻 **GitHub**: [github.com/Aniketkolte2](https://github.com/Aniketkolte2)
 
 ---
 
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-kolte-491972288/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aniketkolte2)
-
----
-
-**“Testing is not just a phase, it’s a mindset.”**  
-*Let’s ship better software, one bug at a time.*
