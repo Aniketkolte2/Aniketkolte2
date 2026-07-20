@@ -16,17 +16,17 @@
 </div>
 
 ```ansi
-[1;32maniket@github:~$[0m [1;36mwhoami[0m
-[1;37m> Aniket Kolte[0m
-[1;35m> AI Engineer[0m
+ [1;32maniket@github:~$ [0m  [1;36mwhoami [0m
+ [1;37m> Aniket Kolte [0m
+ [1;35m> AI Engineer [0m
 
-[1;32maniket@github:~$[0m [1;36mskills[0m
-[1;33mPython | PyTorch | Transformers[0m
-[1;35mLoRA | QLoRA | RAG[0m
-[1;36mLangChain | SQL | Linux[0m
+ [1;32maniket@github:~$ [0m  [1;36mskills [0m
+ [1;33mPython | PyTorch | Transformers [0m
+ [1;35mLoRA | QLoRA | RAG [0m
+ [1;36mLangChain | SQL | Linux [0m
 
-[1;32maniket@github:~$[0m [1;36mcurrent_focus[0m
-[1;32mBuilding and Fine-Tuning Large Language Models[0m
+ [1;32maniket@github:~$ [0m  [1;36mcurrent_focus [0m
+ [1;32mBuilding and Fine-Tuning Large Language Models [0m
 ```
 
 <div align="center">
