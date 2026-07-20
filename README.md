@@ -13,25 +13,6 @@
     <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   </p>
 
-  <br/>
-
-  <!-- Personal Intro & Engineering Focus Card -->
-  <table width="85%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
-    <tr>
-      <td style="padding: 24px; text-align: left; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #e2e8f0;">
-        <h3 align="center" style="color: #00f5d4; margin-top: 0; font-size: 20px;">👋 Hi, I'm Aniket Kolte</h3>
-        <hr style="border-color: #30363d; margin: 15px 0;" />
-        <p style="margin: 10px 0; font-size: 15px; line-height: 1.6;">
-          AI Engineer specializing in <b>LLM Fine-Tuning</b> and <b>PyTorch Core Optimization</b>. I focus on adapting open-weights models (LLaMA-3, Qwen-2.5, DeepSeek-R1) for high-performance domain tasks and scaling memory-efficient distributed training & low-latency inference.
-        </p>
-        <hr style="border-color: #30363d; margin: 15px 0;" />
-        <p style="margin: 8px 0;"><b>⚡ Fine-Tuning & PEFT:</b> LoRA • QLoRA • Unsloth • Axolotl • LLaMA-Factory</p>
-        <p style="margin: 8px 0;"><b>🔥 PyTorch & Distributed:</b> PyTorch 2.x • FSDP • DeepSpeed ZeRO-3 • CUDA</p>
-        <p style="margin: 8px 0;"><b>🎯 Alignment & Serving:</b> DPO • GRPO • RLHF • vLLM • TensorRT-LLM</p>
-      </td>
-    </tr>
-  </table>
-
   <br/><br/>
 
   <!-- Verified Social Links -->
