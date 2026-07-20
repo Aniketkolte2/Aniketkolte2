@@ -16,23 +16,12 @@
 
   <br/>
 
-  <!-- Clean Aligned GitHub Stats Cards -->
-  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" valign="top" style="border: none; padding: 5px;">
-        <a href="https://github.com/Aniketkolte2">
-          <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aniketkolte2&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f5d4&icon_color=a855f7&text_color=9aa5ce&bg_color=0d1117" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center" valign="top" style="border: none; padding: 5px;">
-        <a href="https://github.com/Aniketkolte2">
-          <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketkolte2&layout=compact&theme=tokyonight&hide_border=true&title_color=00f5d4&text_color=9aa5ce&bg_color=0d1117&hide=html,css" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/Aniketkolte2">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aniketkolte2&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f5d4&icon_color=a855f7&text_color=9aa5ce&bg_color=0d1117" alt="GitHub Stats" />
+  </a>
 
-  <br/>
+  <br/><br/>
 
   <!-- Streak Stats -->
   <a href="https://github.com/Aniketkolte2">
@@ -41,7 +30,7 @@
 
   <br/><br/>
 
-  <!-- Premium Connect & Social Badges -->
+  <!-- Verified Social Links -->
   <p align="center">
     <a href="https://github.com/Aniketkolte2" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Aniketkolte2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
