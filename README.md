@@ -13,7 +13,25 @@
     <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   </p>
 
-  <br/><br/>
+</div>
+
+```bash
+aniket@github:~$ whoami
+> AI Engineer
+> LLM Developer
+
+aniket@github:~$ skills
+Python | PyTorch | Transformers
+LoRA | QLoRA | RAG
+LangChain | SQL | Linux
+
+aniket@github:~$ current_focus
+Building and Fine-Tuning Large Language Models
+```
+
+<div align="center">
+
+  <br/>
 
   <!-- Verified Social Links -->
   <p align="center">
