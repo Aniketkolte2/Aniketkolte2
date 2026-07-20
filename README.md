@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/LLM_Fine--Tuning-7c3aed?style=for-the-badge&logo=huggingface&logoColor=white" />
     <img src="https://img.shields.io/badge/vLLM-22C55E?style=for-the-badge&logo=speedtest&logoColor=white" />
     <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-    <img src="https://komarev.com/ghpvc/?username=Aniketkolte2&label=VIEWS&color=8A2BE2&style=for-the-badge" />
   </p>
 
   <br/>
