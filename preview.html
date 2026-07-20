@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CLI Terminal Dynamic Profile - @Aniketkolte2</title>
+  <title>Clean Plain Bash Profile - @Aniketkolte2</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.0/github-markdown-dark.min.css">
   <style>
     body {
@@ -54,24 +54,13 @@
       color: #8b949e;
       font-size: 13px;
     }
-    .terminal-box {
+    pre {
       background-color: #161b22;
       border: 1px solid #30363d;
       border-radius: 8px;
-      padding: 20px;
+      padding: 16px;
       text-align: left;
-      font-family: "Fira Code", Monaco, Consolas, "Courier New", monospace;
-      font-size: 14px;
-      line-height: 1.6;
     }
-    .prompt { color: #00f5d4; font-weight: bold; }
-    .cmd { color: #a855f7; font-weight: bold; }
-    .name { color: #ffffff; font-weight: bold; font-size: 15px; }
-    .role { color: #a855f7; font-weight: bold; }
-    .skills-1 { color: #e2e8f0; font-weight: 600; }
-    .skills-2 { color: #c084fc; font-weight: 600; }
-    .skills-3 { color: #38bdf8; font-weight: 600; }
-    .focus { color: #00f5d4; font-weight: bold; }
   </style>
 </head>
 <body>
@@ -81,7 +70,7 @@
       <div class="avatar">AK</div>
       <div class="user-info">
         <h3>Aniket Kolte (github.com/Aniketkolte2)</h3>
-        <p>CLI Terminal Styled Profile Preview</p>
+        <p>Plain Bash Terminal Profile Preview</p>
       </div>
     </div>
 
@@ -102,19 +91,17 @@
 
     </div>
 
-    <div class="terminal-box">
-      <span class="prompt">aniket@github:~$</span> <span class="cmd">whoami</span><br/>
-      <span class="name">> Aniket Kolte</span><br/>
-      <span class="role">> AI Engineer</span><br/><br/>
+<pre><code class="language-bash">aniket@github:~$ whoami
+> AI Engineer
+> LLM Developer
 
-      <span class="prompt">aniket@github:~$</span> <span class="cmd">skills</span><br/>
-      <span class="skills-1">Python | PyTorch | Transformers</span><br/>
-      <span class="skills-2">LoRA | QLoRA | RAG</span><br/>
-      <span class="skills-3">LangChain | SQL | Linux</span><br/><br/>
+aniket@github:~$ skills
+Python | PyTorch | Transformers
+LoRA | QLoRA | RAG
+LangChain | SQL | Linux
 
-      <span class="prompt">aniket@github:~$</span> <span class="cmd">current_focus</span><br/>
-      <span class="focus">Building and Fine-Tuning Large Language Models</span>
-    </div>
+aniket@github:~$ current_focus
+Building and Fine-Tuning Large Language Models</code></pre>
 
     <div align="center">
 
