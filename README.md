@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:00f5d4&height=180&section=header&text=Aniket%20Kolte&fontSize=42&fontColor=ffffff&animation=twinkling&desc=LLM%20Fine-Tuning%20%7C%20PyTorch%20%7C%20CUDA&descSize=16&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:00f5d4&height=180&section=header&text=Aniket%20Kolte&fontSize=42&fontColor=ffffff&animation=twinkling&desc=LLM%20Fine-Tuning%20%7C%20PyTorch&descSize=16&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
   <br/>
   <!-- Core Focus Badges -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
