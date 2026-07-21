@@ -6,15 +6,15 @@
   <!-- Core Focus Badges -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM_Fine--Tuning-7c3aed?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/vLLM-22C55E?style=for-the-badge&logo=speedtest&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
 
 </div>
 
 ```bash
 aniket@github:~$ whoami
-> AI Engineer
-> LLM Developer
+> Aniket Kolte
+> LLM/AI Engineer
 
 aniket@github:~$ skills
 Python | PyTorch | Transformers
